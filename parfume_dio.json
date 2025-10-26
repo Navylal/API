@@ -6,7 +6,7 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Unisex",
+    "category": "Perfume",
     "status": "In Stock"
   },
   {
@@ -16,7 +16,7 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Unisex",
+    "category": "Perfume",
     "status": "In Stock"
   },
   {
@@ -26,7 +26,27 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Unisex",
+    "category": "Perfume",
+    "status": "In Stock"
+  },
+  {
+    "name": "Bergematoth",
+    "brand": "Alibaba",
+    "price": 1500,
+    "volume": 50,
+    "stock": 15,
+    "expire": "06/15/2026",
+    "category": "Ingridients",
+    "status": "In Stock"
+  },
+  {
+    "name": "Citrus",
+    "brand": "Alibaba",
+    "price": 4500,
+    "volume": 50,
+    "stock": 15,
+    "expire": "06/15/2026",
+    "category": "Ingridients",
     "status": "In Stock"
   }
 ]

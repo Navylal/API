@@ -6,7 +6,7 @@
     "volume": 50,
     "stock": 25,
     "expire": "12/31/2025",
-    "category": "Parfume",
+    "category": "Perfume",
     "status": "In Stock"
   },
   {
@@ -16,7 +16,7 @@
     "volume": 100,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Parfume",
+    "category": "Perfume",
     "status": "In Stock"
   },
   {
@@ -26,7 +26,7 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Parfume",
+    "category": "Perfume",
     "status": "In Stock"
   }
 ]
