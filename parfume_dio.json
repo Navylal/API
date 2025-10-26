@@ -36,7 +36,7 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Ingridients",
+    "category": "Ingredients",
     "status": "In Stock"
   },
   {
@@ -46,7 +46,7 @@
     "volume": 50,
     "stock": 15,
     "expire": "06/15/2026",
-    "category": "Ingridients",
+    "category": "Ingredients",
     "status": "In Stock"
   }
 ]
