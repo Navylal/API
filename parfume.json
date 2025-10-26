@@ -5,7 +5,7 @@
     "price": 850000,
     "volume": 50,
     "stock": 25,
-    "expiry": "12/31/2025",
+    "expire": "12/31/2025",
     "category": "Women",
     "status": "In Stock"
   },
@@ -15,7 +15,7 @@
     "price": 1200000,
     "volume": 100,
     "stock": 15,
-    "expiry": "06/15/2026",
+    "expire": "06/15/2026",
     "category": "Men",
     "status": "In Stock"
   },
@@ -25,28 +25,8 @@
     "price": 250000,
     "volume": 50,
     "stock": 15,
-    "expiry": "06/15/2026",
+    "expire": "06/15/2026",
     "category": "Men",
-    "status": "In Stock"
-  },
-  {
-    "name": "Satin Blanc",
-    "brand": "Mykonos",
-    "price": 250000,
-    "volume": 50,
-    "stock": 15,
-    "expiry": "06/15/2026",
-    "category": "Unisex",
-    "status": "In Stock"
-  },
-  {
-    "name": "SOTB",
-    "brand": "SAFF N CO",
-    "price": 250000,
-    "volume": 50,
-    "stock": 15,
-    "expiry": "06/15/2026",
-    "category": "Unisex",
     "status": "In Stock"
   }
 ]
