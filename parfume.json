@@ -28,5 +28,15 @@
     "expire": "06/15/2026",
     "category": "Perfume",
     "status": "In Stock"
+  },
+  {
+    "name": "Tobaco",
+    "brand": "Alibaba",
+    "price": 2500,
+    "volume": 50,
+    "stock": 15,
+    "expire": "06/15/2026",
+    "category": "Ingredients",
+    "status": "In Stock"
   }
 ]
